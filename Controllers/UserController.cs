@@ -1,13 +1,8 @@
 ﻿using DotNetCoreBoilerPlate.Interfaces;
-using DotNetCoreBoilerPlate.Models;
 using DotNetCoreBoilerPlate.ViewModels;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json.Linq;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace DotNetCoreBoilerPlate.Controllers
