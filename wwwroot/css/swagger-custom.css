@@ -1,0 +1,10 @@
+﻿body {
+}
+/* swagger ui customization */
+.swagger-ui .topbar {
+    display: none !important;
+}
+
+.swagger-ui .info {
+    display: none !important;
+}
